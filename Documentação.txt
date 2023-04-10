@@ -1,0 +1,7 @@
+Contas - Valor, empresa, vencimento, ter chekbox para marcar quando foi paga
+
+Lista de a fazeres - atividade, responsavel, ter checkbox para marcar quando foi feito
+
+Mercado - produto, urgencia, checkbox para mostrar quando foi comprado
+
+financeiro - valor que entrou, forma, referencia, valor que saiu, no que foi gasto, balanceamento de valor, mes refe rente
